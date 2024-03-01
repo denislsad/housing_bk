@@ -1,2 +1,1 @@
-# housing_bk
-Analyzing the housing situation in Brooklyn from 2010
+Analyzing the housing situation in Brooklyn and its neighborhoods from 2000 to 2022.
